@@ -172,6 +172,7 @@ section{
     grid-template-columns: 2.5fr 1fr;
     gap:1.5rem;
     background:#eee;
+
 }
 
 .container .posts-container .post{
@@ -181,6 +182,7 @@ section{
     border:var(--border);
     border-radius: .5rem;
     margin-bottom: 1.5rem;
+    margin-top: 2.5rem;
 }
 
 .container .posts-container .post .image{
@@ -427,6 +429,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding-left: 30px;
 }
 
 .footer .credit{
